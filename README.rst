@@ -1,7 +1,3 @@
-.. image:: https://stapel.readthedocs.io/en/latest/_static/logo-readme.png
-    :width: 950px
-    :align: center
-
 stapel
 ########
 
